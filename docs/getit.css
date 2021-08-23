@@ -70,6 +70,7 @@ Algumas informações úteis e dicas:
   box-shadow: 2px 1px 4px grey;
   transform: rotate(-4deg);
   background-color: #f7d736;
+  border-radius: 10px;
  }
 
 .card-title{
