@@ -4,7 +4,7 @@ Grupo:
 
 - Lívia Sayuri Makuta
 - Henrique Martinelli Frezzatti
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
+- Link do GitHub Pages: https://henriquemf.github.io/tecweb-2021-2-desafio-css/ (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
 
 ## Desafio CSS
 
